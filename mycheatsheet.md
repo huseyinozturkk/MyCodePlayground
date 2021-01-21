@@ -13,3 +13,20 @@
 - u - this will undo the last change made
 - shift+g - takes you to the bottom of a file
 - gg - will take you to the top of a file
+
+# Git
+- git config --global user.name “[firstname lastname]”
+- git config --global user.email “[valid-email]”
+- git config --global color.ui auto
+- git init
+- git clone [url]
+- git status
+- git add [file] / git add .
+- git reset [file]
+- git diff
+- git commit -m "[Hello world]"
+- git log
+- git remote add "alias" "url"
+- git push "alias" "branch"
+- git pull
+- git rm [file]
