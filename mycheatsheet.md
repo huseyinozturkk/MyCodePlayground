@@ -30,3 +30,6 @@
 - git push "alias" "branch"
 - git pull
 - git rm [file]
+
+# Yararlı linkler
+- [C-code-style](https://github.com/MaJerle/c-code-style)
