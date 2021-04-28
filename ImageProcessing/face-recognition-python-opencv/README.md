@@ -8,3 +8,4 @@
 
 # TO DO
 - sqlconnect.py şuan bilgileri bir text dosyasından okuyor. Onu sqlite veritabanından okuyacak şekilde ayarla.
+- fr_test_live.py bitirilecek.
