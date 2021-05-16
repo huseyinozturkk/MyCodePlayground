@@ -1,0 +1,23 @@
+--cpu Cortex-M3
+"kesmeilefreqolcum\startup_stm32f103xb.o"
+"kesmeilefreqolcum\main.o"
+"kesmeilefreqolcum\stm32f1xx_it.o"
+"kesmeilefreqolcum\stm32f1xx_hal_msp.o"
+"kesmeilefreqolcum\stm32f1xx_hal_gpio_ex.o"
+"kesmeilefreqolcum\stm32f1xx_hal_tim.o"
+"kesmeilefreqolcum\stm32f1xx_hal_tim_ex.o"
+"kesmeilefreqolcum\stm32f1xx_hal.o"
+"kesmeilefreqolcum\stm32f1xx_hal_rcc.o"
+"kesmeilefreqolcum\stm32f1xx_hal_rcc_ex.o"
+"kesmeilefreqolcum\stm32f1xx_hal_gpio.o"
+"kesmeilefreqolcum\stm32f1xx_hal_dma.o"
+"kesmeilefreqolcum\stm32f1xx_hal_cortex.o"
+"kesmeilefreqolcum\stm32f1xx_hal_pwr.o"
+"kesmeilefreqolcum\stm32f1xx_hal_flash.o"
+"kesmeilefreqolcum\stm32f1xx_hal_flash_ex.o"
+"kesmeilefreqolcum\stm32f1xx_hal_exti.o"
+"kesmeilefreqolcum\system_stm32f1xx.o"
+--library_type=microlib --strict --scatter "kesmeilefreqolcum\kesmeilefreqolcum.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "kesmeilefreqolcum.map" -o kesmeilefreqolcum\kesmeilefreqolcum.axf
