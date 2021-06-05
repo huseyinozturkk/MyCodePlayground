@@ -56,10 +56,6 @@ This application is for private or educational purposes only. Do not use it on o
 
 16.İşletim sistemleri için gerekli modülleri kurup kodu çalışatıracak shell scriptleri yazılacak.
 
-# Lisans
-
-Bu program GPLv3 lisansı altındadır. Lütfen programı değiştirip kullanmadan önce alttaki bağlantıları okuyunuz!
-
-https://tr.wikipedia.org/wiki/GNU_Genel_Kamu_Lisans%C4%B1 https://www.gnu.org/licenses/quick-guide-gplv3.html
+# Bilgilendirme
 
 Program ile yapacağınız herhangi bir işlemden ben sorumlu değilim. Bu riski göz önüne alarak kullanın.
