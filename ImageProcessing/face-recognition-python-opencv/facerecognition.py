@@ -10,9 +10,6 @@ def FaceRecognitionInit():
     face_recognizer = cv2.face.LBPHFaceRecognizer_create()
     face_recognizer.read("trainedModels.yml")
 
-#type
-#video for videos or live capture,
-#photo for photos
 
 def FaceRecognition(img,type):
     # Debug 0 or 1
